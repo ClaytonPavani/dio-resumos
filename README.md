@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre GIT e GITHUB do curso de versionamento
 
 | Aulas  | Resumos |
 | ------------- | ------------- |
-| Gravando Alterações no Respositório Local  | [Resumos](link)  |
+| Gravando Alterações no Respositório Local  | [Resumo](link)  |
 | Como Clonar e Criar Novos Repositórios Git e GitHub  | [Resumos](link)  |
 
 ```
